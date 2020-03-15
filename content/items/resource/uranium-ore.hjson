@@ -1,0 +1,7 @@
+{
+ type: OreBlock
+ name: uranium-ore
+ description: uranium-ore
+ oreScale: 20
+ oreThreshold: 0.5
+}
