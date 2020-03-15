@@ -1,0 +1,13 @@
+{
+  type: Wall
+  name: Steel wall
+  description: A wall made by steel.Even stronger than surge wall.It takes a lot of time to build it.
+  health: 1600
+  size: 1
+  requirements:
+  [
+    steel/6
+  ]
+  category: defense
+  research: surge-wall
+}

@@ -1,0 +1,14 @@
+{
+  type: Wall
+  name: Refined iron wall
+  description: A wall made by refined iron.A little stronger than thorium wall.Build quicker than you imagine.
+  health: 3520
+  size: 2
+  requirements:
+  [
+    refined-iron/24
+  ]
+  category: defense
+  research: thorium-wall-large
+  buildCostMultiplier: 3
+}

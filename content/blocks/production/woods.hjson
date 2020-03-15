@@ -1,0 +1,25 @@
+{
+  type: GenericCrafter
+  name: Woods
+  description: Woods.The most easy way to get wood.Needs water to grow trees.
+  health: 500
+  size: 5
+  requirements:
+  [
+    copper/50
+  ]
+  cosumes:
+  {
+    liquid: {
+      liquid: water
+      amount: 0.1
+      booster: false
+    }
+  }
+  craftTime: 120
+  outputItem: plank/1
+  hasItems: true
+  category: crafting
+  research: graphite-press
+  buildCostMultiplier: 0.5
+}

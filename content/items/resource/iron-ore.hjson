@@ -1,0 +1,7 @@
+{
+  name: Iron ore
+  descrption: Raw iron.Provides the hope of industry.Maybe better after refining.
+  color: C9631A
+  radioactivity: 0
+  hardness: 3
+}

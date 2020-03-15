@@ -1,0 +1,26 @@
+{
+  type: MendProjector
+  name: Wooden wall
+  description: A cheap wooden wall.Quick Self-repairing.Very weak.Immediate building.Spans multiple tiles.
+  health: 320
+  size: 2
+  requirements:
+  [
+    plank/24
+  ]
+  power: {
+    usage: 0
+    buffered: false
+  }
+  category: defense
+  research: woods
+  buildCostMultiplier: 0.01
+  reload: 60
+  healPercent: 20
+  range: 1
+  color:C9631A
+  phaseBoost: 0
+  phaseRangeBoost: 0
+  solid: true
+  insulated: true
+}
